@@ -13,7 +13,7 @@
     "echarts": "^5.4.2",
     "lodash": "^4.17.21",
     "secure-ls": "^1.2.6",
-    "vue": "^2.7.14",
+    "vue": "^3.5.18",
     "vue-echarts": "^4.1.0",
     "vue-router": "^3.6.5",
     "vuetify": "^2.6.15",
